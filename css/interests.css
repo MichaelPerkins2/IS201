@@ -13,9 +13,9 @@ h1 {
     padding: 1em;
     text-align: center;
     background-color: #333;
-    background-image: url("../assets/img/library.jpeg");
+    background-image: url("../assets/img/library.png");
     background-size: cover;
-    opacity: 0.80;
+    /* opacity: 0.80; */
 }
 
 body {
