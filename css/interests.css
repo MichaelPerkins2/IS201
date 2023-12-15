@@ -12,19 +12,19 @@ h1 {
     margin: 1.5em 3em 3em;
     padding: 1em;
     text-align: center;
-    background-image: url("/assets/img/library.jpeg");
+    background-image: url("../assets/img/library.jpeg");
     background-size: cover;
     opacity: 0.95;
 }
 
 body {
-  background-color:rgb(238, 238, 238);
+    background-color:rgb(238, 238, 238);
 }
 
 .title {
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
 }
 
 .nav-bar li {
@@ -34,31 +34,31 @@ body {
 }
 
 li:last-child {
-  border-right: none;
+    border-right: none;
 }
 
 .nav-bar li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 .nav-bar li a:hover {
-  background-color: white;
-  color: black;
+    background-color: white;
+    color: black;
 }
 
 .nav-bar {
-  position: sticky;
-  top: 0;
-  width: 100%;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 
 .interests {
